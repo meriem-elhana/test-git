@@ -1,2 +1,4 @@
-# test-git
-test git intro DE
+
+# Test Git
+
+Nous travaillons sur les branches de Git !
